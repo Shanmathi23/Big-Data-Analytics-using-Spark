@@ -1,6 +1,5 @@
 # Name:Shanmathi Rajesh
 # Email:shrajesh@eng.ucsd.edu
-# PID:A53088789
 
 from pyspark import SparkContext
 sc = SparkContext()
